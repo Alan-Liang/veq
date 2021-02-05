@@ -1,0 +1,23 @@
+{
+  "name": "veq",
+  "version": "0.0.0",
+  "description": "An experimental server/browser framework",
+  "keywords": [
+    "front-end",
+    "back-end"
+  ],
+  "author": "Alan-Liang <a@keeer.net>",
+  "homepage": "https://github.com/Alan-Liang/veq/tree/master/packages/veq#readme",
+  "license": "GPL-3.0",
+  "main": "lib/veq.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Liang/veq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alan-Liang/veq/issues"
+  }
+}

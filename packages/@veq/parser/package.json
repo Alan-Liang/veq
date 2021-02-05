@@ -1,0 +1,38 @@
+{
+  "name": "@veq/parser",
+  "version": "0.0.1",
+  "description": "Parser for the experimental server/browser framework Veq",
+  "keywords": [
+    "client",
+    "server",
+    "front-end",
+    "back-end",
+    "vue"
+  ],
+  "author": "Alan-Liang <a@keeer.net>",
+  "homepage": "https://github.com/Alan-Liang/veq/tree/master/packages/@veq/parser#readme",
+  "license": "GPL-3.0",
+  "main": "lib/parser.js",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Liang/veq.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Alan-Liang/veq/issues"
+  },
+  "dependencies": {
+    "eslint-scope": "^5.1.1",
+    "espree": "^7.3.1",
+    "estraverse": "^5.2.0",
+    "uuid": "^8.3.2"
+  }
+}

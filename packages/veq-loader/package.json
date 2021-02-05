@@ -1,0 +1,27 @@
+{
+  "name": "veq-loader",
+  "version": "0.0.1",
+  "description": "Loader for the experimental server/browser framework veq",
+  "keywords": [
+    "client",
+    "server",
+    "front-end",
+    "back-end",
+    "vue",
+    "vue-loader"
+  ],
+  "author": "Alan-Liang <a@keeer.net>",
+  "homepage": "https://github.com/Alan-Liang/veq/tree/master/packages/veq-loader#readme",
+  "license": "GPL-3.0",
+  "main": "lib/loader.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Liang/veq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alan-Liang/veq/issues"
+  }
+}

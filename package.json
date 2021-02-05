@@ -1,0 +1,25 @@
+{
+  "name": "@veq/monorepo",
+  "private": "true",
+  "version": "0.0.1",
+  "description": "An experimental server/browser framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Liang/veq.git"
+  },
+  "keywords": [
+    "client",
+    "server",
+    "front-end",
+    "back-end"
+  ],
+  "author": "Alan-Liang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Alan-Liang/veq/issues"
+  },
+  "homepage": "https://github.com/Alan-Liang/veq#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
